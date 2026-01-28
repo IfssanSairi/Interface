@@ -1,0 +1,5 @@
+streamlit
+matplotlib
+numpy
+scipy
+st-flexible-callout-elements
